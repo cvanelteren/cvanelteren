@@ -1,4 +1,4 @@
-Checkout my webiste cvanelteren.github.io for more info on projects!
+Checkout my website https://cvanelteren.github.io for more info on projects!
 <!--
 - 👋 Hi, I’m @cvanelteren
 - 👀 I’m interested in ...
