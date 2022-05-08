@@ -8,3 +8,6 @@ Checkout my website https://cvanelteren.github.io for more info on projects!
 cvanelteren/cvanelteren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=cvanelteren&theme=buefy&show_icons=true&count_private=false)
+ 
+ ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=cvanelteren)
