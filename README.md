@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Casper and I'm a Complexity Scientist, from Amsterdam</h1>
+<h1 align="center">Hi 👋! My name is Casper and I'm a Complexity/Computational Scientist, from Amsterdam</h1>
 
 ###
 
