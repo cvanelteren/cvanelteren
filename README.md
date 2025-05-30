@@ -7,6 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cvanelteren&locale=en&hide=MATLAB,Jupyter%20Notebook,OpenEdge%20ABL,HTML,_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
+
 ###
 
 <div align="center">
@@ -68,5 +69,3 @@
 
 ###
 
-
-<img src="https://github-profile-trophy.vercel.app/?username=cvanelteren&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophy" />
