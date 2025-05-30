@@ -43,6 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
 
+
 ###
 
 <div align="center">
@@ -63,4 +64,9 @@
 
 <img src="https://raw.githubusercontent.com/cvanelteren/cvanelteren/output/snake.svg" alt="Snake animation" />
 
+
+
 ###
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=cvanelteren&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophy" />
