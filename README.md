@@ -1,4 +1,9 @@
-<h1 align="left">Hi there👋! <br> <div align = "left"> My name is Casper </div> <br> <div align = "right"> and I'm a <i> complexity </i> and <i> computational </i> scientist, from Amsterdam</div> </h1>
+<div style="width: 50%; margin: 0 auto; position: relative; left: -20px;">
+  <h1 align="left">Hi there👋! <br> 
+  <div align = "left"> My name is Casper </div> <br> 
+  <div align = "right"> and I'm a <i> complexity </i> and <i> computational </i> scientist, from Amsterdam</div> 
+</h1>
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/github/stars/ultraplot/ultraplot?style=social&label=UltraPlot%20stars" alt="UltraPlot stars" />
