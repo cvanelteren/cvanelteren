@@ -6,8 +6,18 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/ultraplot/ultraplot?style=social&label=UltraPlot%20stars" alt="UltraPlot stars" />
-  <img src="https://img.shields.io/github/stars/cvanelteren?style=social" alt="Personal stars" />
+  <a href="https://github.com/ultraplot/ultraplot">
+    <img src="https://img.shields.io/github/stars/ultraplot/ultraplot?style=for-the-badge&logo=github&label=UltraPlot&color=83a598&logoColor=white" alt="UltraPlot Stars" />
+  </a>
+  <a href="https://github.com/cvanelteren">
+    <img src="https://img.shields.io/github/stars/cvanelteren?style=for-the-badge&logo=github&label=My%20Total%20Stars&color=fabd2f&logoColor=white" alt="My Total Stars" />
+  </a>
+</div>
+
+<div align="center" style="margin: 15px 0;">
+  <a href="https://github.com/sponsors/cvanelteren">
+    <img src="https://img.shields.io/badge/Sponsor%20My%20Work-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor My Work" />
+  </a>
 </div>
 
 <div align = "center">
@@ -78,4 +88,3 @@ Interactive Visualization
 <div align = "center">
 <img src="https://raw.githubusercontent.com/cvanelteren/cvanelteren/output/snake.svg" alt="Snake animation" />
 </div>
-
